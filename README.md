@@ -1,4 +1,4 @@
-# thesis-docker-scenes
+# Thesis-docker-scenes
 Docker-based lab environments developed for a Bachelor's Thesis on cybersecurity tools and penetration testing methodology at Vrije Universiteit Brussel (VUB).
 
 ## Overview
